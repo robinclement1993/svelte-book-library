@@ -20,7 +20,7 @@
 
 <p class="greeting">This is a library for the people. Welcome. Be inspired.</p>
 
-<Button>+ Add Book</Button>
+<Button to="/create">+ Add Book</Button>
 <BookGrid {books} />
 
 <style>
